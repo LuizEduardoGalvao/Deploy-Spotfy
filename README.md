@@ -8,7 +8,6 @@ Este projeto é um clone da interface do Spotify, desenvolvido durante uma jorna
 ✅ Reprodução de Música: Player de áudio simulando a experiência de ouvir músicas.
 ✅ Navegação Intuitiva: Menu lateral e seções organizadas para fluidez na experiência do usuário.
 ✅ Deploy da Aplicação: Publicação para acesso online.
-
 🛠️ Tecnologias Utilizadas
 🧱 HTML5 e CSS3: Estruturação e estilização da interface.
 ⚡ JavaScript: Para interatividade e funcionalidades dinâmicas.
@@ -21,5 +20,3 @@ Este projeto é um clone da interface do Spotify, desenvolvido durante uma jorna
 📌 Front-end + Back-end: Aplicação prática de conceitos em um ambiente completo.
 📌 Deploy de Aplicações: Aprendizado sobre configuração de ambientes de produção.
 📌 Organização de Código: Melhoria nas habilidades de estruturação e trabalho com prazos curtos.
-
-✨ Esse projeto foi uma oportunidade incrível para crescer como desenvolvedor full stack e aprofundar meu conhecimento em tecnologias modernas!
