@@ -20,7 +20,7 @@ Este projeto é um **clone da interface do Spotify**, desenvolvido durante uma j
 - 🖼️ **React.js**: Construção de interfaces modernas e componentizadas.  
 - 🌐 **Node.js**: Configuração do ambiente de desenvolvimento e deploy.  
 - 🔗 **Git e GitHub**: Controle de versão e hospedagem do código.  
-- ☁️ **Plataforma de Deploy**: *(Insira o nome da plataforma utilizada, como Vercel, Netlify ou Heroku).*  
+- ☁️ **Plataforma de Deploy**: Vercel  
 
 ---
 
